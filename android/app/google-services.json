@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "236299894119",
+    "project_id": "clim-cb475",
+    "storage_bucket": "clim-cb475.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236299894119:android:974e006b2b516eaca203c2",
+        "android_client_info": {
+          "package_name": "br.com.flutter_application_project_clim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236299894119-krfjk3ku038himjhjctvfl656ph6eck6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYpdyxvNzuNmZRuPjn7g23SdevHvqlusI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236299894119-krfjk3ku038himjhjctvfl656ph6eck6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
